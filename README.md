@@ -3,6 +3,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=moonformeli)](https://solved.ac/moonformeli)
 
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moonformeli&layout=compact)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonformeli&show_icons=true&theme=radical)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonformeli&layout=compact)](https://github.com/moonformeli/github-readme-stats) -->
